@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/TPExt.Host/bin/Debug
+/TPExt.Host/obj/Debug
+/TPExt.Host.Wizard/Debug
+.vs

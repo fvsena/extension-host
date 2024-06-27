@@ -1,0 +1,11 @@
+C:\gitlab\tp-general\tp-extension-host\TPExt.Host\bin\Release\Resources\TPExt.Host.json
+C:\gitlab\tp-general\tp-extension-host\TPExt.Host\bin\Release\TPExt.Host.exe.config
+C:\gitlab\tp-general\tp-extension-host\TPExt.Host\bin\Release\TPExt.Host.exe
+C:\gitlab\tp-general\tp-extension-host\TPExt.Host\bin\Release\TPExt.Host.pdb
+C:\gitlab\tp-general\tp-extension-host\TPExt.Host\bin\Release\Newtonsoft.Json.dll
+C:\gitlab\tp-general\tp-extension-host\TPExt.Host\bin\Release\Newtonsoft.Json.xml
+C:\gitlab\tp-general\tp-extension-host\TPExt.Host\obj\Release\TPExt.Host.csprojAssemblyReference.cache
+C:\gitlab\tp-general\tp-extension-host\TPExt.Host\obj\Release\TPExt.Host.csproj.CoreCompileInputs.cache
+C:\gitlab\tp-general\tp-extension-host\TPExt.Host\obj\Release\TPExt.Host.csproj.CopyComplete
+C:\gitlab\tp-general\tp-extension-host\TPExt.Host\obj\Release\TPExt.Host.exe
+C:\gitlab\tp-general\tp-extension-host\TPExt.Host\obj\Release\TPExt.Host.pdb

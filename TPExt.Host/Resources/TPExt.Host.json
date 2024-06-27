@@ -1,0 +1,22 @@
+{
+  "name": "tp.ext.host",
+  "description": "TPExt Host",
+  "path": "C:\\Program Files (x86)\\TAP\\TPExt.Host\\TPExt.Host.exe",
+  "type": "stdio",
+  "allowed_origins": [
+    "chrome-extension://fffikfjmnkapandnemoodbcdpmgmiaii/",
+    "chrome-extension://jjpdebaihkangkfpbgefmnnlafkahebn/",
+    "chrome-extension://kammdlphdfejlopponbapgpbgakimokm/",
+    "chrome-extension://knldjmfmopnpolahpmmgbagdohdnhkik/",
+    "chrome-extension://hhpdjcffigokeppbdaeckjiggniaiglf/",
+    "chrome-extension://dbmodiepejcigljbmeebedkmegndokbk/",
+    "chrome-extension://ggpenjgaoljoialbekklkflhongpepcb/",
+    "chrome-extension://iadegddbioeocjbckgnohkjdfhkbecod/",
+    "chrome-extension://dakfnchchkfboeemdgngfcleegdhijjb/",
+    "chrome-extension://lngniaoibjoniobhnpglmgfiaoneoiij/",
+    "chrome-extension://jphljdihhhbpmgembblebidbleaidkej/",
+    "chrome-extension://dcaihjljfonlekdaamhnnjjpmompnmge/",
+    "chrome-extension://edheecdenpbokaeiepjlhndjgbgijlop/",
+    "chrome-extension://lngniaoibjoniobhnpglmgfiaoneoiij/"
+  ]
+}
